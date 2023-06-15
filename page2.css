@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
+.mainbar{
+    display:flex;
+    background-image: url(background2.png);
+    background-size: 100px 60px;
+    background-repeat: repeat-x;
+}
+#logo{
+    width: 100px;
+    height: 50px;
+    padding: 5%;
+    border: 1px solid white;
+    border-radius: %;
+    overflow: hidden;
+    
+}
+.searchbar{
+
+    padding-left: 120px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    position: absolute;
+}
+#box{
+    border: 1px solid rgb(142, 142, 220);
+    border-radius: 6%;
+    box-shadow: 0 1px 5px rgb(16, 16, 180);
+    background-color: black;
+    color: whitesmoke;
+}
+#mag{
+    width:10px;
+    height: 10px;
+}
+#button{
+    cursor: pointer;
+    background-color: rgb(4, 212, 115);
+}
+.menu{
+    display: flex;
+    color:azure;
+    padding-left: 500px;
+  
+}
+.menu#h5{
+    padding:10px;
+}
